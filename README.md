@@ -2,7 +2,8 @@
 Cocos2d-x tessellation library for drawing smooth anti-aliased curves.
 
 Make drawing great again!
-![](awesome%20node/2019-03-21%2004.50.23.jpg)
+
+<img src="awesome%20node/2019-03-21%2004.50.23.jpg" width="300" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <img src="https://img.shields.io/badge/made%20with-cocos2dx-blue.svg" alt="made with Cocos2dx">
