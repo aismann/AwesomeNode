@@ -40,7 +40,8 @@ Also you can draw a triangle (`drawTriangle`) with each vertex can has its own c
 Simple implementation for dashed (`drawADashedLine`) and dash-dotted (`drawADashDottedLine`) lines are also included.
 
 Uncomment `#define AWESOMEDEBUG` to see tessellation highlights. 
-<img src="awesome%20node/1AD38AD9-90C0-4973-B5A2-8DD9F018231A.png" width="500">
+
+<img src="awesome%20node/1AD38AD9-90C0-4973-B5A2-8DD9F018231A.png" width="300">
 
 ---
 
